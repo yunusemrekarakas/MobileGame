@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328124367841",
+    "firebase_url": "https://odevvim.firebaseio.com",
+    "project_id": "odevvim",
+    "storage_bucket": "odevvim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328124367841:android:8d16b347b7c22e9ee908a0",
+        "android_client_info": {
+          "package_name": "com.example.odevvim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328124367841-9dm31sd8a9ngqnqdnue1b564c20bl0h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.odevvim",
+            "certificate_hash": "bb93f46c30a1d649ab78963521fe9545315c45e0"
+          }
+        },
+        {
+          "client_id": "328124367841-i3t1qlocrapi4phtnutlbf74m5shi20m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7I06H4CXujwb2xYDm5Uz8N7quKlX_Q-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328124367841-i3t1qlocrapi4phtnutlbf74m5shi20m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
